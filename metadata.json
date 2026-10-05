@@ -1,0 +1,6 @@
+{
+  "name": "Atelier V | Modern Design & Living Objects",
+  "description": "Curated architectural furniture, tactile lighting, and artisanal objects for thoughtful living spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
